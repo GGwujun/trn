@@ -1,0 +1,6 @@
+135 error Error: Command failed: git tag v1.1.0 -m v1.1.0
+135 error fatal: tag 'v1.1.0' already exists
+135 error
+135 error     at makeError (/Users/gaowujun/tanzhou/trn/node_modules/execa/index.js:174:9)
+135 error     at /Users/gaowujun/tanzhou/trn/node_modules/execa/index.js:278:16
+135 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)

@@ -1,0 +1,26 @@
+{
+  "name": "@tzfe/trn-config",
+  "version": "0.0.2-alpha.9",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "scr/"
+  ],
+  "keywords": [
+    "trn"
+  ],
+  "dependencies": {
+    "@gitbeaker/node": "^27.0.0",
+    "@tzfe/trn-utils": "^0.0.2-alpha.8",
+    "inquirer": "^7.3.3",
+    "os": "^0.1.1",
+    "yaml": "^1.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "gitHead": "9cd98ccc0cf427933fb863bac882228a6992a9f8"
+}

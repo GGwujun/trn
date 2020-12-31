@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "use": true
+  },
+  "ignorePatterns": ["node_modules", "dist", "fixtures"]
+}

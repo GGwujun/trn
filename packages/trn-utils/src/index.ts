@@ -1,0 +1,9 @@
+const FRONT_GROUP_ID = 25;
+const FRONT_GITLAB_PRIVATE_ACCECK_TOKEN = "6EzY5QpAZM9UdiKduQ6w";
+const FRONT_GITLAB_HOST = "http://git.tanzk.cn/";
+
+export default {
+  FRONT_GROUP_ID,
+  FRONT_GITLAB_PRIVATE_ACCECK_TOKEN,
+  FRONT_GITLAB_HOST,
+};

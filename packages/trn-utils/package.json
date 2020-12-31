@@ -1,0 +1,23 @@
+{
+  "name": "@tzfe/trn-utils",
+  "version": "0.0.2-alpha.8",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "scr/"
+  ],
+  "keywords": [
+    "trn"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "envinfo": "^7.7.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "gitHead": "9cd98ccc0cf427933fb863bac882228a6992a9f8"
+}
